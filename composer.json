@@ -1,5 +1,5 @@
 {
-    "name": "b5digital/passport",
+    "name": "Laravel/passport",
     "description": "Laravel Passport provides OAuth2 server support to Laravel.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
@@ -40,7 +40,7 @@
     },
     "autoload": {
         "psr-4": {
-            "b5digital\\Passport\\": "src/"
+            "Laravel\\Passport\\": "src/"
         }
     },
     "autoload-dev": {
